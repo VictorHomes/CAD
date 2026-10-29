@@ -1,0 +1,3 @@
+# Additional dependency for unchanged upstream cadlib plotting imports.
+# Use together with the existing D:/CAD build123d environment.
+matplotlib==3.11.2

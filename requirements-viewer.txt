@@ -1,0 +1,2 @@
+# Add to the tested STEP conversion environment for the installed VS Code extension.
+ocp_vscode==4.2.0

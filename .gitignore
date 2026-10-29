@@ -1,0 +1,13 @@
+.venv/
+__pycache__/
+*.py[cod]
+ABCdata/
+data/
+output/
+paper/
+*.step
+*.stp
+*.7z
+*.zip
+.env
+.env.*
